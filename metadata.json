@@ -1,0 +1,6 @@
+{
+  "name": "Oganesson",
+  "description": "Personal voice assistant for daily tasks, smart device actions, and spoken conversations powered by Mistral AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
